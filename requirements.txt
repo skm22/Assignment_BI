@@ -1,4 +1,4 @@
-spacy==3.1.4
+spacy==3.0.0
 spacy-streamlit==1.0.2
 streamlit==1.1.0
 Wikipedia-API==0.5.4
