@@ -2,3 +2,4 @@ spacy==3.1.4
 spacy-streamlit==1.0.2
 streamlit==1.1.0
 Wikipedia-API==0.5.4
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
